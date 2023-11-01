@@ -1,0 +1,4 @@
+some text in test.txt
+\n
+
+\000
