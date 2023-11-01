@@ -1,0 +1,3 @@
+/home/vladimir/Molitva/linux/SimpleShell-master/build/CMakeFiles/shell.dir
+/home/vladimir/Molitva/linux/SimpleShell-master/build/CMakeFiles/edit_cache.dir
+/home/vladimir/Molitva/linux/SimpleShell-master/build/CMakeFiles/rebuild_cache.dir

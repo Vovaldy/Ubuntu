@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vladimir/Molitva/linux/SimpleShell-master/build",
+  "command": "/usr/bin/gcc   -O2 -Wall -fsanitize=address -fsanitize=leak -g -g -std=gnu99 -o CMakeFiles/shell.dir/main.c.o -c /home/vladimir/Molitva/linux/SimpleShell-master/main.c",
+  "file": "/home/vladimir/Molitva/linux/SimpleShell-master/main.c"
+},
+{
+  "directory": "/home/vladimir/Molitva/linux/SimpleShell-master/build",
+  "command": "/usr/bin/gcc   -O2 -Wall -fsanitize=address -fsanitize=leak -g -g -std=gnu99 -o CMakeFiles/shell.dir/src/shell.c.o -c /home/vladimir/Molitva/linux/SimpleShell-master/src/shell.c",
+  "file": "/home/vladimir/Molitva/linux/SimpleShell-master/src/shell.c"
+}
+]
