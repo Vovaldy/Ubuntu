@@ -1,0 +1,14 @@
+итого 52
+-rw-rw-r-- 1 vladimir vladimir   102 мар  8 14:52 billy.c
+-rw-rw-r-- 1 vladimir vladimir   928 мар  7 17:32 billy.o
+-rw-rw-r-- 1 vladimir vladimir    89 мар  8 14:53 fred.c
+-rw-rw-r-- 1 vladimir vladimir   920 мар  7 17:32 fred.o
+-rw-rw-r-- 1 vladimir vladimir    98 мар  7 16:57 hello.c
+-rw-rw-r-- 1 vladimir vladimir    74 мар  8 14:42 lib.h
+-rw-rw-r-- 1 vladimir vladimir     0 мар  8 14:59 lsoutput.txt
+-rwxrwxr-x 1 vladimir vladimir 17624 мар  8 14:53 program
+-rw-rw-r-- 1 vladimir vladimir   127 мар  8 14:46 program.c
+-rw-rw-r-- 1 vladimir vladimir   928 мар  7 17:32 program.o
+    PID TTY          TIME CMD
+   2591 pts/0    00:00:00 bash
+   3448 pts/0    00:00:00 ps

@@ -1,0 +1,25 @@
+.PHONY: all clean install
+
+CC=g++
+
+CFLAGS=-c -D ECHO_PRINT
+
+all: archieve
+
+archieve: main.o Archieve.o File.o FileException.o
+	$(CC) main.o Archieve.o File.o FileException.o -o archieve
+
+main.o: main.cpp 
+	$(CC) $(CFLAGS) main.cpp
+
+Archieve.o: Archieve.cpp
+	$(CC) $(CFLAGS) Archieve.cpp
+
+FileException.o: FileException.cpp
+	$(CC) $(CFLAGS) FileException.cpp
+
+File.o: File.cpp
+	$(CC) $(CFLAGS) File.cpp
+
+clean:
+	rm -r *.o archieve

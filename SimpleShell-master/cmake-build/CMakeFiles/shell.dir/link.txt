@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -Wall -fsanitize=address -fsanitize=leak -g CMakeFiles/shell.dir/main.c.o CMakeFiles/shell.dir/src/shell.c.o -o shell 
